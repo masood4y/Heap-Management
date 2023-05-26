@@ -1,5 +1,6 @@
 # Heap-Management
 (Detailed Breakdown on my Portfolio)
+
 The Heap which being part of the virtual memory abstraction that is shared among different threads of a process, needs to be managed. Unlike Stack Memory which is kept track of using a Stack pointer, more creative ways are requeired to manage Heap memory. This project aimed to develop a system that allows for allocation, deallocation and reallocation of data in Heap memory.
 
 
